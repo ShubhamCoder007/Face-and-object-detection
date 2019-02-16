@@ -9,3 +9,6 @@ message is displayed. Video section would also generate the number of video fram
 
 Motion detection would detect object when it enters the webcam frame. The time when the object appeared and when it
 exits is generated as well.
+
+haarcascade object acts as a reference for the detection of the face, eye, smile; with respect to which we find the
+aforementioned characteristics.
