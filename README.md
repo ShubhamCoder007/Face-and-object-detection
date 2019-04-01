@@ -1,4 +1,4 @@
-# Face-and-object-detection
+# Face-and-motion-detection
 Basic face, eye and smile detection implemented as GUI in python. One option supports uploading picture and then
 processing the face, eyes or smile respectively according to the selected option.
 Also a seperate realtime option of the webcam is added where the picture from the webcam is taken and then the
